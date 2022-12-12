@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: "- University Jeju National University - 2018~\n- Major: Computer Engineering/n- digital logic circuit, object oriented programming, data structure, computer programming, file handling and application, database, system programming, algorithm, operation system, data communication, basic web dev, advanced web dev, blockchain introduction\n- Double major: Big Data Science\n- applied probability theory, data science language, data analysis, data mining and modelling, computing math"
+about_me_description: "University Jeju National University(2018~) / Major => Computer Engineering: digital logic circuit, object oriented programming, data structure, computer programming, file handling and application, database, system programming, algorithm, operation system, data communication, basic web dev, advanced web dev, blockchain introduction / Double => major Big Data Science: applied probability theory, data science language, data analysis, data mining and modelling, computing math"
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section

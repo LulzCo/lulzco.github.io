@@ -13,21 +13,30 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: 안전구역 이탈 알림 서비스 모바일 어플리케이션
+  descr: "영유아나 치매 노인들의 안전을 위해서 안전구역을 이탈하면 보호자에게 알림을 보내주는 서비스<br>나의 역할: 백엔드 개발"
+  demo: https://github.com/orgs/Capston-LOLco
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
+    - tag: MariaDB
+    - tag: nestjs
     - tag: Node
+    - tag: Typescript
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: 음식 추천 서비스 웹
+  descr: "냉장고 안에 있는 음식 재료들을 입력하고 만들 수 있는 음식들을 추천재주는 서비스<br>나의 역할: 백엔드 개발"
+  demo: https://github.com/CapstoneLegeno
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: MySQL
+    - tag: nestjs
+    - tag: Node
+    - tag: Javascript
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: 마스크 구매 가능한 약국 알림 서비스 모바일 어플리케이션
+  descr: "코로나 시기에 마스크 구매 가능한 약국 알림 서비스<br>나의 역할: 백엔드 개발"
+  demo: https://github.com/FractalOSS2020
+  tags:
+    - tag: Node
+    - tag: express
+    - tag: kakaoMapApi
+    - tag: 공공데이터 api
+    - tag: Javascript
